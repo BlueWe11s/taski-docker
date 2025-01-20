@@ -1,7 +1,6 @@
 # docker-compose.yml
 version: '3'
 
-
 volumes:
   pg_data:
   static:
