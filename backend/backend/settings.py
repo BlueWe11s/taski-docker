@@ -11,8 +11,6 @@ DEBUG = True
 ALLOWED_HOSTS = ['89.169.169.184', '127.0.0.1', 'localhost', 'bboi.hopto.org']
 
 
-# Application definition
-
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
